@@ -1,6 +1,7 @@
-# Bucks2Bar Project
+# Income Statement Application
 
-This is the Bucks2Bar project. It's a simple project that uses the latest version of Bootstrap.
+This project was made with the intention of creating software applications by interacting with the LLM, using GitHub copilot, to better understand the ways of utilizing Gen AI for improved performance.
+Te project is using the ChartJS library.
 
 ## Project Structure
 
@@ -20,6 +21,3 @@ To set up the project, follow these steps:
 ## Usage
 
 To use the project, simply navigate through the `index.html` file. You can modify the CSS and JS files as needed to suit your needs.
-```
-
-This is a basic README file. You can add more details as needed, such as information about the project's purpose, how to contribute, and contact information.
